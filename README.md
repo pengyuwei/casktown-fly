@@ -20,7 +20,7 @@ Windows XP/2000
 http://toyshop.hoker.cc
 
 截图：
-![github](https://github.com/hokerffb/casktown-fly/screenshot/wmwins.jpg "github")  
+[image]: https://github.com/hokerffb/casktown-fly/screenshot/wmwins.jpg "github"  
 
 
 版本历史：
@@ -108,8 +108,10 @@ ABO说明：昨天通宵郁闷的构思，听《宿命传说》、《EVA》还�
 
 
 **序章 记忆**
+
+
 （ffb:游戏开始就是远征舰队登陆这个星球，玩家控制飞机，干掉一些小怪物飞船后，干掉一个敌人的母舰，飞机登陆星球，转到：）
-片头动画
+</b>片头动画</b>
 
 （图片从上往下移动）背景是一个很多星星的夜晚，在野外。
 （RPG场景）主角EVAN站在他老爸的左面，用很崇拜的眼神望着他的父亲，傻傻的笑，让人想起农夫山泉的广告或者西藏的天空。YEBER在望着天空，目光坚定。他对EVAN说
@@ -117,6 +119,7 @@ ABO说明：昨天通宵郁闷的构思，听《宿命传说》、《EVA》还�
 
 （Logo画面显示汉字：）
 **第一章 两个世界**
+
 
 >这段是讲述，相当于动画，如果技术不够，就用图片+文本来说明。
 
