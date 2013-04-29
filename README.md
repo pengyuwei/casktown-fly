@@ -20,7 +20,7 @@ Windows XP/2000
 http://toyshop.hoker.cc
 
 截图：
-![github](https://github.com/hokerffb/casktown-fly/screenshot/wmwins.jpg "github")  
+![github](https://github.com/hokerffb/casktown-fly/blob/master/screenshot/wmwins.jpg "github")  
 
 
 版本历史：
