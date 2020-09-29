@@ -12,8 +12,9 @@ other files: GBK
 
 开发运行环境：
 ------
-Visual Studio 2003(C#)
-Windows XP/2000
+* Visual Studio 2003(C#)
+* Windows XP/2000
+* DirectX 7.0 SDK
 
 官方网站：
 ------
