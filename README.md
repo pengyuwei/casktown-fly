@@ -2,7 +2,7 @@
 
 ![github](https://github.com/hokerffb/casktown-fly/blob/master/screenshot/wmwins.jpg "github")  
 
-木桶镇的资料片，一段木桶镇太空站的实习生的故事。(横版设计游戏)
+木桶镇的资料片，一段木桶镇太空站的实习生的故事。(横版射击游戏)
 
 开发运行环境：
 * Visual Studio 2003(C#)
